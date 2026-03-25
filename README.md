@@ -2,7 +2,7 @@
 
 Financial product comparison data for AI agents. Search, compare, and get personalized recommendations for high-yield savings accounts, credit cards, personal loans, budgeting apps, and 54 earning products across 11 categories.
 
-<!-- mcp-name: com.walletgrower/financial-products -->
+<!-- mcp-name: io.github.fiatgrowth/walletgrower -->
 
 ## What This Does
 

@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "com.walletgrower/financial-products",
+  "name": "io.github.fiatgrowth/walletgrower",
   "title": "WalletGrower Financial Products",
   "description": "Search, compare, and get AI-powered recommendations for savings accounts, credit cards, personal loans, budgeting apps, and 54 earning products. 21 tools across 5 financial verticals with editorial-quality data from WalletGrower.com.",
   "repository": {
