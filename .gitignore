@@ -1,0 +1,6 @@
+publish.sh
+setup-all.sh
+dist/
+__pycache__/
+*.pyc
+.env
